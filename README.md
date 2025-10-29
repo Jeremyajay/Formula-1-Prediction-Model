@@ -32,7 +32,7 @@ The model uses historical Formula 1 data including:
 - **Track Characteristics**: Circuit type, weather conditions, historical patterns
 
 **Data Sources:**
-- Ergast F1 API (historical race data)
+- Formula 1 World Championship (1950 - 2024): https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020?resource=download 
 - Official F1 statistics
 - Historical race results and driver standings
 
@@ -195,7 +195,6 @@ Computer Science Student - Portland State University
 
 ## Acknowledgments
 
-- **Data Source**: https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020?resource=download 
 - **Course**: Data with Python coursework at Portland State University
 - **Inspiration**: Passion for Formula 1 racing and data-driven sports analytics
 
