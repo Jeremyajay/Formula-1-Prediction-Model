@@ -1,0 +1,54 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Data files (adjust if you want to include some)
+*.csv
+*.xlsx
+*.json
+*.parquet
+*.pickle
+*.pkl
+data/
+datasets/
+
+# Model files (can be large)
+*.h5
+*.joblib
+*.model
+*.sav
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Environment variables
+.env
